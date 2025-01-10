@@ -1,0 +1,1 @@
+This project contains SQL scripts for managing a fitness center database. It demonstrates the use of Data Manipulation Language (DML) operations, including insertion, updating, and deletion of records in a relational database.
